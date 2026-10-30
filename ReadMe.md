@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um programador freelancer<br><br>Sempre buscando aprender
+Programador FullStack<br><br>Sempre Buscando Aprender
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FKGOD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel_augusto_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto1605/) 
